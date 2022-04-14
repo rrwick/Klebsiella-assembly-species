@@ -2,6 +2,8 @@
 
 This tool is designed to assign species to a _Klebsiella_ assembly. However, unlike other tools, like [Kleborate](https://github.com/katholt/Kleborate/) which assign a single species, this tool 'paints' each region with a species, allowing it to detect and characterise cross-species hybrids.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6462461.svg)](https://doi.org/10.5281/zenodo.6462461)
+
 
 
 ## Requirements
